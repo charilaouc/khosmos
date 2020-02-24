@@ -1,4 +1,4 @@
-var mapLocation = new google.maps.LatLng(-37.823534, 144.975617); //change coordinates here
+var mapLocation = new google.maps.LatLng(34.774314, 32.428322); //change coordinates here
 var marker;
 var map;
 
